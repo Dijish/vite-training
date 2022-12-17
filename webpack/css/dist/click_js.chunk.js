@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([["click_js"],{62:(e,t,n)=>{function u(){if(document.getElementById("lazyP"))return;let e=document.createElement("p");e.setAttribute("id","lazyP"),e.innerText="Hi I am lazy",document.body.append(e)}n.r(t),n.d(t,{default:()=>u})}}]);

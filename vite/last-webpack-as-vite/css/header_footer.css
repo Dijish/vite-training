@@ -1,0 +1,12 @@
+header {
+    position: fixed;
+    top: 0;
+    transform: translateX(-50%);
+    border: 1px white solid;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    border: 1px;
+}
